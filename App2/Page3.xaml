@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Page3"
+             Title="Lion"
+             BackgroundColor="LightBlue">
+    <RelativeLayout Padding="60">
+        <Image Source="Lion.png" 
+                RelativeLayout.WidthConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                RelativeLayout.HeightConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+        <Grid RelativeLayout.WidthConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+            RelativeLayout.HeightConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+            <Label Text="" VerticalOptions="Center"
+         HorizontalOptions="Center" FontSize="20" TextColor="GhostWhite"/>
+            <Label Text="A Spiritual Lion = Young Simba = Me(:" VerticalOptions="Start"
+         HorizontalOptions="Center" FontSize="30" TextColor="Purple"/>
+        </Grid>
+    </RelativeLayout>
+</ContentPage>

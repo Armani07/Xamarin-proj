@@ -1,0 +1,28 @@
+C:\Users\Armani\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+C:\Users\Armani\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+C:\Users\Armani\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.csprojResolveAssemblyReference.cache
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.App.xaml.g.cs
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.MainPage.xaml.g.cs
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.ListViewPage1.xaml.g.cs
+C:\Users\Armani\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.Page1.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.csprojResolveAssemblyReference.cache
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.App.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.ListViewPage1.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.MainPage.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.Page1.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.Page2.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.Page3.xaml.g.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+C:\Users\Armani\Desktop\Mobile Applications\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb

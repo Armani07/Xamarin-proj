@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Page1"
+             BackgroundColor="LightBlue"
+             Title="Rooted and Rebooted">
+    <RelativeLayout Padding="60">
+        <Image Source="Rooted.png" 
+                RelativeLayout.WidthConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                RelativeLayout.HeightConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+        <Grid RelativeLayout.WidthConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+            RelativeLayout.HeightConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+            <Label Text="Never Forget Where You Started" VerticalOptions="Center"
+         HorizontalOptions="Center" FontSize="20" TextColor="GhostWhite"/>
+            <Label Text="Rooted and Rebooted" VerticalOptions="Start"
+         HorizontalOptions="Center" FontSize="30"  TextColor="Purple"/>
+        </Grid>
+    </RelativeLayout>
+</ContentPage>
